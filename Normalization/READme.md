@@ -8,3 +8,7 @@ It takes the data points in the wavelength range you have decided to fit. It fin
 from the "scipy.signal" library. The found point ar fitted by a 3rd degree polynomial. The fit is divided out of the data resulting 
 in a normalized star spectrum. Since the fits are done within ranges of an overall spectrum the corresponding wavelenght ranges, 
 relative maximum, and polynomial  fits and parameters are saved in various files. The files are saved to be used in later analysis.
+
+Some of the outputs are included towards the bottom of the notebook to show how the code runs internally.
+
+Enjoy!
